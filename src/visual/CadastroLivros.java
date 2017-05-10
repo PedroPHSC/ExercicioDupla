@@ -42,15 +42,15 @@ public class CadastroLivros extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Título: ");
+        jLabel1.setText("Título : ");
 
-        jLabel2.setText("Autores: ");
+        jLabel2.setText("Autores : ");
 
-        jLabel3.setText("Editora: ");
+        jLabel3.setText("Editora : ");
 
-        jLabel4.setText("Nº Edição: ");
+        jLabel4.setText("Nº Edição : ");
 
-        jLabel5.setText("Preço: ");
+        jLabel5.setText("Preço : ");
 
         btCadastrar.setText("Cadastrar");
 
